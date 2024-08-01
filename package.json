@@ -1,0 +1,23 @@
+{
+  "name": "online_library_management_api_hapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/accept": "^6.0.3",
+    "@hapi/boom": "^10.0.1",
+    "@hapi/hapi": "^21.3.10",
+    "@hapi/inert": "^7.1.0",
+    "@hapi/joi": "^17.1.1",
+    "@hapi/jwt": "^3.2.0",
+    "@hapi/vision": "^7.0.3",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
